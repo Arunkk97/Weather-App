@@ -1,0 +1,22 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
+}
+.bgimg{
+  background-image: url('https://images.squarespace-cdn.com/content/v1/642c87a700d97e660769f3ed/3c5ca3a9-312c-40e9-b1c3-53f5bb84c022/Map+Background.png');
+  width: 100%;
+  height: 89vh;
+  background-size: cover;
+}
+
+.navImgg{
+  background-color: rgb(10, 10, 44);
+}
+.brimg{
+  border-radius: 50px;
+}
+
+.card-body{
+  width:460px;
+}
